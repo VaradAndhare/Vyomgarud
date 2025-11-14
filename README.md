@@ -1,16 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VyomGarud Portfolio
 
-Currently, two official plugins are available:
+VyomGarud Portfolio is a modern, interactive, and visually engaging website showcasing autonomous UAV technology, company highlights, capabilities, leadership, and contact information. Built with React, Tailwind CSS, and Framer Motion, it features smooth animations, neon-inspired visuals, and responsive design across devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Features
 
-## React Compiler
+ 1.Hero Section: Animated particles, gradient overlays, and interactive CTA.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ 2.Highlights & Capabilities: Animated cards with hover effects and detailed UAV features.
 
-## Expanding the ESLint configuration
+ 3.About Section: Mission, vision, leadership profiles, and company statistics.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ 4.Gallery: Showcase of UAV fleet and real-time mission monitoring.
+
+ 5.Contact Section: Neon-inspired floating particles and a responsive contact form.
+
+ 6.Responsive Design: Fully mobile-friendly with smooth interactions.
+
+Tech Stack
+
+Frontend: React, Tailwind CSS, Framer Motion
+
+Animations: Particle effects, hover interactions, scroll-based reveal
